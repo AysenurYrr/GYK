@@ -3,14 +3,12 @@
     {
       "categoryId": 1,
       "categoryName": "Electronics",
-      "description": "Devices and gadgets",
-      "id": "72af"
+      "description": "Devices and gadgets"
     },
     {
       "categoryId": 2,
       "categoryName": "Home Appliances",
-      "description": "Essential household items",
-      "id": "11d0"
+      "description": "Essential household items"
     }
   ],
   "suppliers": [
@@ -19,16 +17,14 @@
       "supplierName": "Tech Distributors Inc.",
       "contactEmail": "contact@techdistributors.com",
       "contactPhone": "+1234567890",
-      "address": "456 Tech Street, City, Country",
-      "id": "e661"
+      "address": "456 Tech Street, City, Country"
     },
     {
       "supplierId": 2,
       "supplierName": "Home Essentials Ltd.",
       "contactEmail": "info@homeessentials.com",
       "contactPhone": "+9876543210",
-      "address": "789 Appliance Road, City, Country",
-      "id": "05b3"
+      "address": "789 Appliance Road, City, Country"
     }
   ],
   "products": [
@@ -37,7 +33,7 @@
       "categoryId": 1,
       "productName": "Smartphone",
       "description": "Latest model smartphone",
-      "price": 1714.88,
+      "price": 7800,
       "stockQuantity": 50,
       "createdAt": "2025-03-08T12:00:00Z",
       "updatedAt": "2025-03-08T12:00:00Z",
@@ -48,7 +44,7 @@
       "categoryId": 1,
       "productName": "Laptop",
       "description": "Powerful gaming laptop",
-      "price": 2786.65,
+      "price": 12000,
       "stockQuantity": 30,
       "createdAt": "2025-03-08T12:10:00Z",
       "updatedAt": "2025-03-08T12:10:00Z",
@@ -59,28 +55,47 @@
       "categoryId": 2,
       "productName": "Microwave Oven",
       "description": "Compact and efficient microwave oven",
-      "price": 154.75,
+      "price": 970,
       "stockQuantity": 20,
       "createdAt": "2025-03-08T12:20:00Z",
       "updatedAt": "2025-03-08T12:20:00Z",
       "satisfactionScore": 4.2
+    },
+    {
+      "id": "4",
+      "categoryId": 1,
+      "productName": "Smartphone",
+      "description": "Latest model smartphone",
+      "price": 3400,
+      "stockQuantity": 50,
+      "createdAt": "2025-03-08T12:00:00Z",
+      "updatedAt": "2025-03-08T12:00:00Z",
+      "satisfactionScore": 3.6
+    },
+    {
+      "id": "5",
+      "categoryId": 1,
+      "productName": "Smartphone",
+      "description": "Latest model smartphone",
+      "price": 4000,
+      "stockQuantity": 50,
+      "createdAt": "2025-03-08T12:00:00Z",
+      "updatedAt": "2025-03-08T12:00:00Z",
+      "satisfactionScore": 3.9
     }
   ],
   "productSuppliers": [
     {
       "productId": 1,
-      "supplierId": 1,
-      "id": "deff"
+      "supplierId": 1
     },
     {
       "productId": 2,
-      "supplierId": 1,
-      "id": "0f4e"
+      "supplierId": 1
     },
     {
       "productId": 3,
-      "supplierId": 2,
-      "id": "ca8b"
+      "supplierId": 2
     }
   ],
   "customers": [
@@ -90,8 +105,23 @@
       "customerEmail": "johndoe@example.com",
       "customerPhone": "+1234567890",
       "address": "123 Main St, City, Country",
-      "createdAt": "2025-03-08T12:00:00Z",
-      "id": "5f1f"
+      "createdAt": "2025-03-08T12:00:00Z"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Aysenur Yorur",
+      "customerEmail": "aysenuryorur0@gmail.com",
+      "customerPhone": "+1234567890",
+      "address": "123 Main St, City, Country",
+      "createdAt": "2025-03-08T12:00:00Z"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Aysenur Yörük",
+      "customerEmail": "aysenuryorur2001@gmail.com",
+      "customerPhone": "+1234567890",
+      "address": "123 Main St, City, Country",
+      "createdAt": "2025-03-08T12:00:00Z"
     }
   ],
   "carts": [
@@ -99,8 +129,13 @@
       "cartId": 1,
       "customerId": 1,
       "purchaseDate": "2025-03-08T12:30:00Z",
-      "totalPrice": 1999.97,
-      "id": "41aa"
+      "totalPrice": 1999.97
+    },
+    {
+      "cartId": 2,
+      "customerId": 2,
+      "purchaseDate": "2025-03-08T12:30:00Z",
+      "totalPrice": 3200
     }
   ],
   "cartItems": [
@@ -109,16 +144,28 @@
       "cartId": 1,
       "productId": 1,
       "quantity": 2,
-      "price": 699.99,
-      "id": "382f"
+      "price": 699.99
     },
     {
       "cartItemId": 2,
       "cartId": 1,
       "productId": 2,
       "quantity": 1,
-      "price": 1299.99,
-      "id": "bd8e"
+      "price": 1299.99
+    },
+    {
+      "cartItemId": 3,
+      "cartId": 2,
+      "productId": 3,
+      "quantity": 1,
+      "price": 500
+    },
+    {
+      "cartItemId": 4,
+      "cartId": 2,
+      "productId": 3,
+      "quantity": 1,
+      "price": 2700
     }
   ]
 }
