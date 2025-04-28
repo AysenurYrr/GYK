@@ -1,0 +1,8 @@
+[
+  { "category_id": 1, "name": "Feature Film" },
+  { "category_id": 2, "name": "Short Film" },
+  { "category_id": 3, "name": "TV Series" },
+  { "category_id": 4, "name": "Documentary" },
+  { "category_id": 5, "name": "Animated Film" },
+  { "category_id": 6, "name": "Web Series" }
+]

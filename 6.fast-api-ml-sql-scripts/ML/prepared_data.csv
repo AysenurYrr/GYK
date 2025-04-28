@@ -1,0 +1,8 @@
+user_id,username,movie_id,title,category,genres,rating,imdb_rating
+1,ayse_nur,101,Inception,Feature Film,"['Action', 'Sci-Fi']",9.0,8.8
+1,ayse_nur,102,The Shawshank Redemption,Feature Film,['Drama'],9.5,9.3
+2,john_doe,101,Inception,Feature Film,"['Action', 'Sci-Fi']",8.0,8.8
+3,fatma_kar,103,The Dark Knight,Feature Film,"['Action', 'Comedy']",7.5,9.0
+3,fatma_kar,104,Interstellar,Feature Film,"['Action', 'Sci-Fi']",8.0,8.6
+4,michael_smith,106,The Matrix,Feature Film,"['Action', 'Sci-Fi']",6.5,8.7
+5,zeynep_ak,102,The Shawshank Redemption,Feature Film,['Drama'],7.0,9.3

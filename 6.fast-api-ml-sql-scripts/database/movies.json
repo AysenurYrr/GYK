@@ -1,0 +1,202 @@
+[
+  {
+    "movie_id": 101,
+    "title": "Inception",
+    "category_id": 1,
+    "genre_ids": [1, 3],
+    "imdb_rating": 8.8,
+    "release_year": 2010,
+    "duration_minutes": 148,
+    "description": "A thief who enters dreams to steal secrets."
+  },
+  {
+    "movie_id": 102,
+    "title": "The Shawshank Redemption",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 9.3,
+    "release_year": 1994,
+    "duration_minutes": 142,
+    "description": "Two imprisoned men bond over years."
+  },
+  {
+    "movie_id": 103,
+    "title": "The Dark Knight",
+    "category_id": 1,
+    "genre_ids": [1, 4],
+    "imdb_rating": 9.0,
+    "release_year": 2008,
+    "duration_minutes": 152,
+    "description": "Batman faces the Joker in Gotham City."
+  },
+  {
+    "movie_id": 104,
+    "title": "Interstellar",
+    "category_id": 1,
+    "genre_ids": [1, 3],
+    "imdb_rating": 8.6,
+    "release_year": 2014,
+    "duration_minutes": 169,
+    "description": "A team of explorers travel through a wormhole in space."
+  },
+  {
+    "movie_id": 105,
+    "title": "Pulp Fiction",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 8.9,
+    "release_year": 1994,
+    "duration_minutes": 154,
+    "description": "The lives of two mob hitmen intertwine in Los Angeles."
+  },
+  {
+    "movie_id": 106,
+    "title": "The Matrix",
+    "category_id": 1,
+    "genre_ids": [1, 3],
+    "imdb_rating": 8.7,
+    "release_year": 1999,
+    "duration_minutes": 136,
+    "description": "A hacker discovers the truth about his reality."
+  },
+  {
+    "movie_id": 107,
+    "title": "Forrest Gump",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 8.8,
+    "release_year": 1994,
+    "duration_minutes": 142,
+    "description": "A simple man witnesses defining historical moments in America."
+  },
+  {
+    "movie_id": 108,
+    "title": "Fight Club",
+    "category_id": 1,
+    "genre_ids": [2, 4],
+    "imdb_rating": 8.8,
+    "release_year": 1999,
+    "duration_minutes": 139,
+    "description": "An insomniac and a soap maker form an underground fight club."
+  },
+  {
+    "movie_id": 109,
+    "title": "The Godfather",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 9.2,
+    "release_year": 1972,
+    "duration_minutes": 175,
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son."
+  },
+  {
+    "movie_id": 110,
+    "title": "The Godfather Part II",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 9.0,
+    "release_year": 1974,
+    "duration_minutes": 202,
+    "description": "The early life and career of Vito Corleone is portrayed while his son expands the crime family."
+  },
+  {
+    "movie_id": 111,
+    "title": "The Avengers",
+    "category_id": 1,
+    "genre_ids": [1, 4],
+    "imdb_rating": 8.0,
+    "release_year": 2012,
+    "duration_minutes": 143,
+    "description": "Earth's mightiest heroes must unite to stop an alien invasion."
+  },
+  {
+    "movie_id": 112,
+    "title": "Parasite",
+    "category_id": 1,
+    "genre_ids": [2, 4],
+    "imdb_rating": 8.6,
+    "release_year": 2019,
+    "duration_minutes": 132,
+    "description": "A poor family schemes to become employed by a wealthy household."
+  },
+  {
+    "movie_id": 113,
+    "title": "Spirited Away",
+    "category_id": 1,
+    "genre_ids": [3],
+    "imdb_rating": 8.6,
+    "release_year": 2001,
+    "duration_minutes": 125,
+    "description": "A young girl enters a world of spirits to save her parents."
+  },
+  {
+    "movie_id": 114,
+    "title": "The Lion King",
+    "category_id": 1,
+    "genre_ids": [3],
+    "imdb_rating": 8.5,
+    "release_year": 1994,
+    "duration_minutes": 88,
+    "description": "A lion cub prince flees his kingdom only to learn the true meaning of responsibility."
+  },
+  {
+    "movie_id": 115,
+    "title": "Joker",
+    "category_id": 1,
+    "genre_ids": [2, 4],
+    "imdb_rating": 8.5,
+    "release_year": 2019,
+    "duration_minutes": 122,
+    "description": "A mentally troubled comedian descends into nihilism and crime."
+  },
+  {
+    "movie_id": 116,
+    "title": "Whiplash",
+    "category_id": 1,
+    "genre_ids": [2],
+    "imdb_rating": 8.5,
+    "release_year": 2014,
+    "duration_minutes": 106,
+    "description": "A young drummer enrolls in a cut-throat music conservatory."
+  },
+  {
+    "movie_id": 117,
+    "title": "The Prestige",
+    "category_id": 1,
+    "genre_ids": [1, 4],
+    "imdb_rating": 8.5,
+    "release_year": 2006,
+    "duration_minutes": 130,
+    "description": "Two stage magicians engage in a bitter rivalry."
+  },
+  {
+    "movie_id": 118,
+    "title": "Gladiator",
+    "category_id": 1,
+    "genre_ids": [1, 2],
+    "imdb_rating": 8.5,
+    "release_year": 2000,
+    "duration_minutes": 155,
+    "description": "A betrayed Roman general seeks revenge against the corrupt emperor."
+  },
+  {
+    "movie_id": 119,
+    "title": "Up",
+    "category_id": 1,
+    "genre_ids": [3],
+    "imdb_rating": 8.3,
+    "release_year": 2009,
+    "duration_minutes": 96,
+    "description": "An old man ties thousands of balloons to his house to travel to South America."
+  },
+  {
+    "movie_id": 120,
+    "title": "Toy Story",
+    "category_id": 1,
+    "genre_ids": [3],
+    "imdb_rating": 8.3,
+    "release_year": 1995,
+    "duration_minutes": 81,
+    "description": "A cowboy doll is threatened by the arrival of a space ranger toy."
+  }
+]
